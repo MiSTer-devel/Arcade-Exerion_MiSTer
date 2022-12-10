@@ -8,7 +8,7 @@
 	<manufacturer>Jaleco</manufacturer>
 	<category>Shooter</category>
 	<rbf>exerion</rbf>
-	<rotation>vertical</rotation>
+	<rotation>vertical (cw)</rotation>
 	<joystick>8-way</joystick>
 	<switches default="FF,0A,00">
 		<dip bits="8,10" name="Space Fighters" ids="1,2,3,4,5A,5B,5C,Free"/>
